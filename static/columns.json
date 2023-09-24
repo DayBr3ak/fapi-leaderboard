@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "highestArea",
+    "label": "Highest Area"
+  },
+  {
+    "slug": "potatoesKilled",
+    "prop": "potatoKilled",
+    "label": "PotatoesKilled"
+  },
+  {
+    "slug": "reincarnationLevel",
+    "label": "reincarnationLevel"
+  },
+  {
+    "slug": "classesLevel",
+    "label": "classesLevel"
+  },
+  {
+    "slug": "itemRatingMax",
+    "label": "itemRatingMax"
+  },
+  {
+    "slug": "wormsQty",
+    "label": "wormsQty"
+  },
+  {
+    "slug": "larvaQty",
+    "label": "larvaQty"
+  },
+  {
+    "slug": "silkQty",
+    "label": "silkQty"
+  },
+  {
+    "slug": "cowQty",
+    "label": "cowQty"
+  },
+  {
+    "slug": "ascensionCount",
+    "label": "ascensionCount"
+  },
+  {
+    "slug": "whackScore",
+    "label": "whackScore"
+  },
+  {
+    "slug": "petUnlocked",
+    "label": "petUnlocked"
+  },
+  {
+    "slug": "petLevel",
+    "label": "petLevel"
+  },
+  {
+    "slug": "petRank",
+    "label": "petRank"
+  },
+  {
+    "slug": "hourInExpedition",
+    "label": "hourInExpedition"
+  },
+  {
+    "slug": "expeditionWave",
+    "label": "expeditionWave"
+  },
+  {
+    "slug": "cardLevel",
+    "label": "cardLevel"
+  },
+  {
+    "slug": "healthyPotato",
+    "label": "healthyPotato"
+  },
+  {
+    "slug": "fries",
+    "label": "fries"
+  },
+  {
+    "slug": "totalContagion",
+    "label": "totalContagion"
+  },
+  {
+    "slug": "totalAssemblyLine",
+    "label": "totalAssemblyLine"
+  }
+]
