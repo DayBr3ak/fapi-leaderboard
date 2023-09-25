@@ -6,82 +6,82 @@
   {
     "slug": "potatoesKilled",
     "prop": "potatoKilled",
-    "label": "PotatoesKilled"
+    "label": "Potatoes Killed"
   },
   {
     "slug": "reincarnationLevel",
-    "label": "reincarnationLevel"
+    "label": "Reincarnation Level"
   },
   {
     "slug": "classesLevel",
-    "label": "classesLevel"
+    "label": "Classes Level"
   },
   {
     "slug": "itemRatingMax",
-    "label": "itemRatingMax"
+    "label": "Item Rating"
   },
   {
     "slug": "wormsQty",
-    "label": "wormsQty"
+    "label": "Worms Quantity"
   },
   {
     "slug": "larvaQty",
-    "label": "larvaQty"
+    "label": "Larva Quantity"
   },
   {
     "slug": "silkQty",
-    "label": "silkQty"
+    "label": "Silk Quantity"
   },
   {
     "slug": "cowQty",
-    "label": "cowQty"
+    "label": "Cows Quantity"
   },
   {
     "slug": "ascensionCount",
-    "label": "ascensionCount"
+    "label": "Ascension Count"
   },
   {
     "slug": "whackScore",
-    "label": "whackScore"
+    "label": "Whack Score (log)"
   },
   {
     "slug": "petUnlocked",
-    "label": "petUnlocked"
+    "label": "Pet Unlocked"
   },
   {
     "slug": "petLevel",
-    "label": "petLevel"
+    "label": "Pet Level"
   },
   {
     "slug": "petRank",
-    "label": "petRank"
+    "label": "Pet Rank"
   },
   {
     "slug": "hourInExpedition",
-    "label": "hourInExpedition"
+    "label": "Hour Spent in Expeditions"
   },
   {
     "slug": "expeditionWave",
-    "label": "expeditionWave"
+    "label": "Expedition Wave Total"
   },
   {
     "slug": "cardLevel",
-    "label": "cardLevel"
+    "label": "Card Level Total"
   },
   {
     "slug": "healthyPotato",
-    "label": "healthyPotato"
+    "label": "Healthy Potato (log)"
   },
   {
     "slug": "fries",
-    "label": "fries"
+    "label": "Fries"
   },
   {
     "slug": "totalContagion",
-    "label": "totalContagion"
+    "label": "Contagion"
   },
   {
     "slug": "totalAssemblyLine",
-    "label": "totalAssemblyLine"
+    "label": "Assembly"
   }
 ]
