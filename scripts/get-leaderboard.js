@@ -169,7 +169,7 @@ async function* getStreamLeaderboard({ ws, start, end, columnName }) {
 			case 'SEND_LEADERBOARD':
 				{
 					results.push(message.data.entries);
-					console.info(message.data);
+					// console.info(message.data);
 					resolve();
 					promise1 = new Promise((r) => (resolve = r));
 					promise = Promise.race([promise1, timeout(2000)]);

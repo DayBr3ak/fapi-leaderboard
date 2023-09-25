@@ -1,4 +1,5 @@
 import { base } from "$app/paths";
+export const prerender = true;
 export async function load({ fetch, params }) {
 	const res = await fetch(`${base}/latest/${params.slug}.json`);
 	const item = await res.json();

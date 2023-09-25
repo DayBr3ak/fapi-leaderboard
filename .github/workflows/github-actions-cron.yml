@@ -9,7 +9,7 @@ on:
 
 jobs:
   # Single deploy job since we're just deploying
-  deploy:
+  updatelb:
     runs-on: ubuntu-latest
 
     permissions:
