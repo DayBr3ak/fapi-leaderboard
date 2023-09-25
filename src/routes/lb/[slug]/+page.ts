@@ -13,6 +13,9 @@ export async function load({ fetch, params }) {
       const prog = item.ascensionProgress
       return `${cnt} (${prog}%)`;
     }
+    if (params.slug === 'potatoesKilled') {
+      return item.potatoKilled;
+    }
 
     return item[params.slug];
   }
