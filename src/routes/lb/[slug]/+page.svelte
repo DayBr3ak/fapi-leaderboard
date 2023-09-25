@@ -3,8 +3,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>FAPI Leaderboard</title>
+	<meta name="description" content="FAPI Leaderboard, updated regularly" />
 </svelte:head>
 
 <section>
