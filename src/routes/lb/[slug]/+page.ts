@@ -1,9 +1,10 @@
+import { base } from "$app/paths";
 export async function load({ fetch, params }) {
-	const res = await fetch(`/latest/${params.slug}.json`);
+	const res = await fetch(`${base}/latest/${params.slug}.json`);
 	const item = await res.json();
 
 
-  const res2 = await fetch(`/columns.json`);
+  const res2 = await fetch(`${base}/columns.json`);
 	const cols = await res2.json();
 
   const getScore = (item) => {
